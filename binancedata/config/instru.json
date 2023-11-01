@@ -1,0 +1,16 @@
+{
+    "ufuture": [
+        "btc/usdt",
+        "eth/usdt",
+        "sol/usdt",
+        "xrp/usdt",
+        "gas/usdt"
+    ],
+    "spot": [
+        "btc/usdt",
+        "eth/usdt",
+        "sol/usdt",
+        "xrp/usdt",
+        "tia/usdt"
+    ]
+}

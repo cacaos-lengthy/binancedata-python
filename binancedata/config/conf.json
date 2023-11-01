@@ -1,0 +1,33 @@
+{
+    "count_sleep": 20,
+    "num_instru": 5,
+    "dataparams": {
+        "trades": [
+            "trades"
+        ],
+        "aggtrades": [
+            "aggTrades"
+        ],
+        "candles": [
+            "klines",
+            "1m"
+        ],
+        "bookdepth": [
+            "bookDepth"
+        ]
+    },
+    "marketparams": {
+        "spot": [
+            "spot"
+        ],
+        "ufuture": [
+            "futures",
+            "um"
+        ]
+    },
+    "banned_instru": [
+        "usdc/usdt",
+        "fdusd/usdt",
+        "busd/usdt"
+    ]
+}
